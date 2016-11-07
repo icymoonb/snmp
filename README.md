@@ -1,1 +1,1 @@
-# snmp
+# snmpwalk
